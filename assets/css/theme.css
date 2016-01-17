@@ -8,19 +8,19 @@ body {
   background-color: #E4E7EA;
 }
 a {
-  color: #ffb300;
+  color: #FFC107;
 }
 a:hover {
-  color: #00897b;
+  color: #0097A7;
 }
 .bg-image.no-image {
-  background-color: #26a69a;
+  background-color: #00BCD4;
 }
 
 /* --- Navbar --------------------------------------------------------------- */
 
 .navbar {
-  background-color: #26a69a;
+  background-color: #00BCD4;
   color: white;
 }
 .navbar a {
@@ -38,7 +38,7 @@ a:hover {
   color: white;
 }
 .header .navbar.fixed.autohide.show {
-  background-color: #26a69a;
+  background-color: #00BCD4;
 }
 .header--subtitle {
   color: #ddd;
@@ -52,15 +52,15 @@ a:hover {
 .post--content > h4,
 .post--content > h5,
 .post--content > h6 {
-  border-color: teal;
+  border-color: #0097A7;
 }
 .post--content p > code {
   background-color: #e0f2f1;
-  color: teal;
+  color: #0097A7;
 }
 .post--content blockquote {
   background-color: #e0f2f1;
-  border-color: teal;
+  border-color: #0097A7;
 }
 .post--tags a {
   color: #888;
@@ -92,14 +92,14 @@ a:hover {
   background-color: rgba(0,0,0,.05);
 }
 .author--media {
-  background-color: #26a69a;
+  background-color: #00BCD4;
 }
 
 /* --- FABs ----------------------------------------------------------------- */
 
 .fab {
   color: white;
-  background-color: #ffb300;
+  background-color: #FFC107;
 }
 .fab:hover {
   color: white;
@@ -109,7 +109,7 @@ a:hover {
 
 .button.solid {
   color: white;
-  background-color: #ffb300;
+  background-color: #FFC107;
 }
 
 /* --- Waves ---------------------------------------------------------------- */
@@ -121,22 +121,22 @@ a:hover {
 /* --- Footer --------------------------------------------------------------- */
 
 .footer {
-  background-color: #00897b;
+  background-color: #0097A7;
 }
 .footer a {
-  color: #B2DFDB;
+  color: #B2EBF2;
 }
 .footer a:hover {
   color: #FFFFFF;
 }
 .footer--top {
-  color: #80cbc4;
+  color: #B2EBF2;
 }
 .footer--bottom a {
   color: #004d40;
 }
 .footer--bottom a:hover {
-  color: #80cbc4;
+  color: #B2EBF2;
 }
 .footer--bottom {
   color: #004d40 ;
