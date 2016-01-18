@@ -55,7 +55,7 @@
       <header class="card--header">
     {{/if}}
         <!-- Title -->
-        <h5 class="card--title" itemprop="headline">{{title}}</h5>
+        <a href="{{url}}"<h5 class="card--title" itemprop="headline">{{title}}</h5></a>
         <span class="card--subtitle">
           <i class="fa fa-calendar-o"></i>
           <time datetime="{{date format='YYYY-MM-DD'}}" itemprop="datePublished">
@@ -73,7 +73,7 @@
       </section>
       <!-- Actions -->
       <footer class="card--actions right">
-        <a class="button ripple" href="{{url}}">More</a>
+        <a class="button ripple" href="{{url}}">Leer más...</a>
       </footer>
     </article>
   {{/foreach}}
